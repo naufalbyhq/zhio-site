@@ -149,6 +149,10 @@ h1 {
   animation-delay: 150ms;
 }
 
+.card:nth-child(3) {
+  animation-delay: 300ms;
+}
+
 .card:hover {
   background: rgba(24, 24, 27, 0.6);
   border-color: var(--line-hover);
